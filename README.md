@@ -8,11 +8,6 @@
 
 > DEMO [form validator](http://sofish.github.io/validator.js/)
 
-## 线上运行版本
-
-- 一行搞定：[iNews.io Register](http://inews.io/account/register)
-- 进阶使用：[百姓网发布表单](http://shanghai.baixing.com/fabu/ershouqiche)
-
 ## 使用方法
 
 ### 一、实例化
@@ -168,15 +163,7 @@ $('#event').on('after:hello', function(event, element){
 - 变量先定义后赋值（除非赋值可以写成单行）
 - 代码中出现以 $ 开头的对象，该为 jQuery 对象，比如 $item
 
-## 测试用例：
-
-使用 index.php 这个文件
-
 ## 许可协议
 
 基于 MIT 协议授权，你可以使用于任何地方（包括商业应用）、修改并重新发布。详见：[LICENSE](https://github.com/sofish/validator.js/blob/master/LICENSE)
 
-## 贡献者
-
-- __[Chris Yip](https://github.com/ChrisYip)__: [http://chrisyip.im/](http://chrisyip.im/)
-- __[青花木木](https://github.com/zhanglin800)__: [http://zhanglin.org](http://zhanglin.org)
